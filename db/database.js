@@ -4,7 +4,7 @@ const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password: '',
-  database: 'todo_list-jwt'
+  database: 'be-todo-list'
 });
 
 module.exports = db;
