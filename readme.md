@@ -1,6 +1,6 @@
-# Aplikasi Todo List by Raihan Ferdyanza
+# Aplikasi Todo List by Ahmad
 
-Aplikasi Todo List sederhana menggunakan Express.js, MySQL, dan JWT untuk mengelola daftar tugas.
+Aplikasi TodoList sederhana menggunakan Express.js, MySQL, dan JWT untuk mengelola daftar tugas.
 
 ## Langkah-langkah Menjalankan Aplikasi
 
